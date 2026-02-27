@@ -1,7 +1,5 @@
 # Experiment-10-Creation-and-uploading-Data-sets
 
-# Experiment-9-Study-of-Pandas
-
 # Name: Shreyanshu Behera
 
 # PRN: 25070123149
